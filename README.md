@@ -101,7 +101,7 @@ Cybersecurity Internship B084
 
 LinkedIn:www.linkedin.com/in/oshadhee-thalagoda-861b2329b
 
-
+> This lab is for education only. All activity is done inside my own lab environment, on systems that I own and control.
 
 
 
