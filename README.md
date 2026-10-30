@@ -1,5 +1,8 @@
-# NETWORKWALKSEMMANUEL-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
-Cybersecurity Lab Setup
+# Cybersecurity Lab Environment Setup
+
+**Week 1 Project (WK1-PM1) - Networkwalks Cybersecurity Internship, Batch B083**
+
+Building an isolated virtual lab for ethical hacking and penetration testing practice.
 ## Project Overview
 
 This project sets up a virtual cybersecurity lab on my own laptop using **VirtualBox** and **Kali Linux**.
